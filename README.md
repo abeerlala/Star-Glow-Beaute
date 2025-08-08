@@ -1,6 +1,6 @@
 # 🌟 Star Glow Beaute – Website Clone (Frontend Practice Project)
 
-## 🔗 For Live Demo <a href="https://abeerlala.github.io/STAR-GLOW-BEAUTE" target="_blank">Click Here</a>
+## 🔗 For Live Demo <a href="https://abeerlala.github.io/Star-Glow-Beaute" target="_blank">Click Here</a>
 
 This is a **frontend clone** of the official website of **Star Glow Beaute**, a beauty and skincare brand. I recreated this site using **HTML**, **CSS**, and **JavaScript** purely as a **practice project** to improve my skills in layout design, responsiveness, and UI structuring.
 
