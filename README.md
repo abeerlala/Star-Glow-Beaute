@@ -18,7 +18,7 @@ This is a **frontend clone** of the official website of **Star Glow Beaute**, a 
 
 - **HTML5** – for content structure
 - **CSS3** – for styling and layout
-- **JavaScript** – for dynamic elements (if applicable)
+- **JavaScript** – for dynamic elements
 
 ## 🧠 What I Learned
 
